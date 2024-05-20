@@ -1,0 +1,7 @@
+{
+  "name": "appaul",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
